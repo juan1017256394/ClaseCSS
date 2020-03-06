@@ -14,6 +14,28 @@ h3 {
 
 }
 
-body{
-    background-color: chocolate;
+.fondoPrincipal{
+    background-color: red;
 }
+
+.fondoheadprincipal{
+    background-color: blue;
+}
+
+.fondoprincipal2{
+    background-color: chartreuse;
+
+}
+
+.bg{
+ background-image: url(https://www.markas.my/image/markas/image/cache/data/slideshow/2020/iTkqwB431579111845-1900x635.jpg);
+ height: 640px;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+}
+
+.textorojo{
+    color: red;
+}
+
+
