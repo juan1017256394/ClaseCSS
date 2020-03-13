@@ -38,4 +38,14 @@ h3 {
     color: red;
 }
 
+table,td{
+    border: 2px solid;
+    border-collapse: collapse;
+    width: 100%;
+}
 
+tr:hover{
+    background-color: rgb(10, 243, 10);
+}
+
+ 
